@@ -29,7 +29,7 @@ namespace TriangleTest
             Assert.AreEqual(expected, Actual);
         }
     }
-/*
+
     [TestFixture]
     public class IsoscelesTest1
     {
@@ -301,7 +301,7 @@ namespace TriangleTest
 
 
 
-    */
+    
 
 
 
